@@ -1,11 +1,6 @@
 <h2 align="left">Git commit --><br><br>👋 Hey there, I'm Sam Leo S!<br>A 22-year-old Backend Developer with a passion for Java that runs as deep as my love for lifting heavy! 💻💪<br><br>🔥 Java Wizard: Crafting sleek, efficient code is my daily grind.<br>🛠️ Backend Architect: Building APIs and databases that are as solid as my gym routine.<br>💪 Gym Enthusiast: Just like in development, I believe in pushing limits and staying consistent in the gym.<br>🌱 Eternal Learner: Whether it's a new tech stack or a new PR at the gym, I'm always leveling up.<br>🎯 Problem Solver: From bugs to barbells, I love tackling challenges head-on!<br>⚡ I’m driven by tech, powered by fitness, and always striving to outdo yesterday's version of me. Let's create something powerful together!</h2>
 
 ###
-
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=SAM-LEO-S&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
